@@ -52,7 +52,7 @@ Tabién hemos elegido la UX de Dana ya que se enfrenta a una situación frustran
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
-- Enlace al documento:  [Usability Review](P1/Usability-Review.pdf)
+- Enlace al documento:  [Usability Review](P1/Usability-review.pdf)
 - Valoración final (numérica): 61/100 - *Moderate*
 - Comentario sobre la valoración: Es una página cuya idea está muy bien pero su interfaz no ayuda a la experiencia de usuario.
 

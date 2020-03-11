@@ -1,7 +1,7 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU1.Hookah  Curso: 2019/20 
 
 Proyecto: 
 
@@ -10,8 +10,8 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Raúl Soria González     :octocat:     
+ * :bust_in_silhouette:  Enrique Ruiz Limones     :octocat:
 
 ----- 
 
@@ -30,26 +30,31 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Hemos elegido una aplicación web llamada ***Plan B Club*** cuyo propósito es la organización de viajes. Te da la posibilidad de realizar un viaje con tus amigos o familiares, o bien para conocer gente nueva con la que viajar.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Hemos elegido a Jon porque es una persona con la que nos identificamos, podría ser alguno de nosotros dos.
+
+A Dana la hemos elegido porque sus motivos para viajar y descubrir España son interesantes.
+
+![Persona Jon](img/Persona_Jon.png)
+![Persona Dana](img/Persona_Dana.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+Hemos escogido la UX de Jon porque es algo que nos puede pasar a todos, planear un viaje y no ponerse de acuerdo con tus compañeros de viaje.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Tabién hemos elegido la UX de Dana ya que se enfrenta a una situación frustrante en la que sus amigas la dejan tirada.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+- Enlace al documento:  [Usability Review](P1/Usability-Review.pdf)
+- Valoración final (numérica): 61/100 - *Moderate*
+- Comentario sobre la valoración: Es una página cuya idea está muy bien pero su interfaz no ayuda a la experiencia de usuario.
 
 
 ## Paso 2. UX Design  

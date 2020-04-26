@@ -3,11 +3,11 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU1.Hookah  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: PlanBClub
 
-Descripción: 
+Descripción: Vamos a analizar e intentar mejorar la web de PlanBClub
 
-Logotipo: 
+Logo: <img src="img/logo_PlanBClub.png" height=50></img>
 
 Miembros
  * :bust_in_silhouette:   Raúl Soria González     :octocat:     
@@ -35,19 +35,16 @@ Hemos elegido una aplicación web llamada ***Plan B Club*** cuyo propósito es l
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-Hemos elegido a Jon porque es una persona con la que nos identificamos, podría ser alguno de nosotros dos.
+Hemos elegido a [Jon][Persona Jon] porque es una persona con la que nos identificamos, podría ser alguno de nosotros dos.
 
-A Dana la hemos elegido porque sus motivos para viajar y descubrir España son interesantes.
-
-![Persona Jon](img/Persona_Jon.png)
-![Persona Dana](img/Persona_Dana.png)
+A [Dana][Persona Dana] la hemos elegido porque sus motivos para viajar y descubrir España son interesantes.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-Hemos escogido la UX de Jon porque es algo que nos puede pasar a todos, planear un viaje y no ponerse de acuerdo con tus compañeros de viaje.
+Hemos escogido la UX de Jon porque es algo que nos puede pasar a todos, planear un viaje y no ponerse de acuerdo con tus compañeros de viaje. [Journey Map Jon][Mapa Jon]
 
-Tabién hemos elegido la UX de Dana ya que se enfrenta a una situación frustrante en la que sus amigas la dejan tirada.
+Tabién hemos elegido la UX de Dana ya que se enfrenta a una situación frustrante en la que sus amigas la dejan tirada. [Journey Map Dana][Mapa Dana]
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -83,36 +80,28 @@ Lo más importante sería corregir la página de inicio ya que está sobrecargad
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-
-## Pagina Inicio
-![Boceto inicio](img/boceto_inicio.jpg)
-## Pagina Buscar Viaje
-![Boceto buscar viaje](img/boceto_buscar_viaje.jpg)
-## Pagina Tema
-![Boceto tema](img/boceto_tema.jpeg)
+Aquí dejamos los enlaces a los bocetos más importantes de la página web
+### Pagina Inicio
+[Boceto página de inicio][Boceto inicio]
+### Pagina Buscar Viaje
+[Boceto página de busqueda de viaje][Boceto buscar viaje]
+### Pagina Tema Foro
+[Boceto página de tema de foro][Boceto tema]
 
 
 ## Paso 3. Mi equipo UX-Case Study 
 
-
-![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
------
-
-
->>> Analizar lo aprendido de la experiencia MuseApp 
-
-![Método UX](img/landing-page.png)  3.b Logotipo
+![Método UX](img/landing-page.png)  3.a Logotipo
 ----
+<img src="img/logo_PlanBClub.png" height=100></img>
 
+Hemos mantenido el logotipo inicial de la página porque nos parece que concuerda bien con la página en sí
 
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
-![Método UX](img/guidelines.png) 3.c Guidelines
+![Método UX](img/guidelines.png) 3.b Análisis de MuseMap y Guidelines
 ----
+Toda la información queda recogida en la [carpeta P3](P3)
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
-![Método UX](img/mockup.png)  3.d Video
+![Método UX](img/mockup.png)  3.c Video
 ----
 
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
@@ -164,3 +153,11 @@ Lo más importante sería corregir la página de inicio ya que está sobrecargad
 
 
 
+
+[Persona Jon]:img/Persona_Jon.png
+[Persona Dana]:img/Persona_Dana.png
+[Mapa Jon]:img/Mapa_Jon.png
+[Mapa Dana]:img/Mapa_Dana.png
+[Boceto inicio]:img/boceto_inicio.jpg
+[Boceto buscar viaje]:img/boceto_buscar_viaje.jpg
+[Boceto tema]:img/boceto_tema.jpeg

@@ -75,7 +75,7 @@ Lo más importante sería corregir la página de inicio ya que está sobrecargad
 ----
 
 
-![Sitemap](img/Labelling.png)
+![Sitemap](img/labelling_1.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
@@ -104,7 +104,8 @@ Toda la información queda recogida en la [carpeta P3](P3)
 ![Método UX](img/mockup.png)  3.c Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+[![Video UX](img/pantallazo.png)](img/Explicacion.mp4 "Video UX")
+[Enlace video][video]
 
 
 ## Paso 4. Evaluación 
@@ -161,3 +162,4 @@ Toda la información queda recogida en la [carpeta P3](P3)
 [Boceto inicio]:img/boceto_inicio.jpg
 [Boceto buscar viaje]:img/boceto_buscar_viaje.jpg
 [Boceto tema]:img/boceto_tema.jpeg
+[video]: https://drive.google.com/file/d/1FtGwYcpnms1wM1iIrbCXCXuaGRE6xDsd/preview

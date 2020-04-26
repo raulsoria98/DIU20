@@ -66,8 +66,22 @@ También sería importante que la caja de búsqueda no esté tan sólo en la pá
 
 ## Historia en Video del UX Case Study
 
+[![Video UX](../img/pantallazo.png)](../img/Explicacion.mp4 "Video UX")
+[Enlace video][video]
+
 <hr/>
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
+Gracias a lo que hemos leído en [smashingmagazine][smashingmagazine] nos hemos dado cuenta que la elección del patrón de diseño es muy importante para que la experiencia del usuario en nuestra página web sea lo más satisfactoria posible.
+
+Páginas como [pickaso][pickaso] o [paletasdecolores][paletasdecolores] han sido muy útiles para la realización de la práctica ya que nos ha ayudado a escoger la tipografía y los colores adecuados para el nuevo diseño de la página. Debido a que si escogemos una tipografía que no sea clara y limpia puede llegar a ser molesto para el usuario.
+
+Es importante utilizar guidelines que se adecúen a la aplicación web ya que van a ayudar al usuario a la hora de interactuar con la interfaz y harán esta más amigable.
+
+
 [paleta]: https://paletasdecolores.com/paleta-de-colores-3042
+[pickaso]: https://pickaso.com/2017/consejos-color-tipografia-apps
+[paletasdecolores]: https://paletasdecolores.com/
+[smashingmagazine]: https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices
+[video]: https://drive.google.com/file/d/1FtGwYcpnms1wM1iIrbCXCXuaGRE6xDsd/preview

@@ -66,7 +66,7 @@ También sería importante que la caja de búsqueda no esté tan sólo en la pá
 
 ## Historia en Video del UX Case Study
 
-[![Video UX](../img/pantallazo.png)](../img/Explicacion.mp4 "Video UX")
+[![Video UX](../img/pantallazo.png)](https://drive.google.com/file/d/1FtGwYcpnms1wM1iIrbCXCXuaGRE6xDsd/preview "Video UX")
 [Enlace video][video]
 
 <hr/>
@@ -84,4 +84,4 @@ Es importante utilizar guidelines que se adecúen a la aplicación web ya que va
 [pickaso]: https://pickaso.com/2017/consejos-color-tipografia-apps
 [paletasdecolores]: https://paletasdecolores.com/
 [smashingmagazine]: https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices
-[video]: https://drive.google.com/file/d/1FtGwYcpnms1wM1iIrbCXCXuaGRE6xDsd/preview
+[video]: ../img/Explicacion.mp4

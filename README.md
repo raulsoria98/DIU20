@@ -104,7 +104,7 @@ Toda la información queda recogida en la [carpeta P3](P3)
 ![Método UX](img/mockup.png)  3.c Video
 ----
 
-[![Video UX](img/pantallazo.png)](img/Explicacion.mp4 "Video UX")
+[![Video UX](img/pantallazo.png)](https://drive.google.com/file/d/1FtGwYcpnms1wM1iIrbCXCXuaGRE6xDsd/preview "Video UX")
 [Enlace video][video]
 
 
@@ -162,4 +162,4 @@ Toda la información queda recogida en la [carpeta P3](P3)
 [Boceto inicio]:img/boceto_inicio.jpg
 [Boceto buscar viaje]:img/boceto_buscar_viaje.jpg
 [Boceto tema]:img/boceto_tema.jpeg
-[video]: https://drive.google.com/file/d/1FtGwYcpnms1wM1iIrbCXCXuaGRE6xDsd/preview
+[video]: img/Explicacion.mp4
